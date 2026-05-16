@@ -1,4 +1,4 @@
-name: base
+name: keyboard-detection
 channels:
   - conda-forge
   - defaults
@@ -8,3 +8,4 @@ dependencies:
   - pip:
     - pytest
     - flake8
+    # Add any other Python packages your project needs
